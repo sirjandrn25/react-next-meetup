@@ -13,7 +13,9 @@ const MeetUpItem = (props: meetUpObj) => {
         <h3 className='text-2xl capitalize my-3'>{props.title}</h3>
         <p className='text-lg '>{props.address}</p>
         <button className='border-2 px-3 py-1 my-3 border-cyan-400 bg-cyan-600 rounded-lg hover:bg-cyan-700 text-white'>
-          <Link href={`/meetup/${props.id}`}>Details</Link>
+          <Link href={`/meetup/${props.id}`} passHref>
+            Details
+          </Link>
         </button>
       </div>
     </li>

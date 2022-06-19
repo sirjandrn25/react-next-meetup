@@ -1,0 +1,24 @@
+{
+  "meetups": [
+    {
+      "title": "a first meetup ",
+      "address": "first meetup address",
+      "id": 1,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni voluptatum beatae animi repellendus ducimus natus sequi tempore dicta, quos, alias quisquam facilis illo eligendi, assumenda temporibus pariatur? Ut, laboriosam? Enim."
+    },
+    {
+      "title": "a second meetup ",
+      "address": "second meetup address",
+      "id": 2,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni voluptatum beatae animi repellendus ducimus natus sequi tempore dicta, quos, alias quisquam facilis illo eligendi, assumenda temporibus pariatur? Ut, laboriosam? Enim."
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
